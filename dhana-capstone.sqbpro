@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Dhanasree/Code/SavvyCoders/Capstone/dhana-capstone.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2374"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,27:mainCrashes_by_vehicletype_2016"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Crashes_by_vehicletype_2016" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="98"/><column index="3" value="149"/><column index="4" value="107"/><column index="5" value="158"/><column index="6" value="91"/><column index="7" value="142"/><column index="8" value="40"/><column index="9" value="91"/><column index="10" value="188"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Crashes_by_vehicletype_2017" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="143"/><column index="3" value="62"/><column index="4" value="76"/><column index="5" value="62"/><column index="6" value="85"/><column index="7" value="62"/><column index="8" value="62"/><column index="9" value="62"/><column index="10" value="70"/><column index="11" value="70"/><column index="12" value="111"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Crashes_by_vehicletype_2018" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="62"/><column index="3" value="62"/><column index="4" value="62"/><column index="5" value="62"/><column index="6" value="62"/><column index="7" value="62"/><column index="8" value="62"/><column index="9" value="62"/><column index="10" value="70"/><column index="11" value="70"/><column index="12" value="93"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Crashes_by_vehicletype_2019" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="62"/><column index="3" value="62"/><column index="4" value="62"/><column index="5" value="62"/><column index="6" value="62"/><column index="7" value="62"/><column index="8" value="62"/><column index="9" value="112"/><column index="10" value="185"/><column index="11" value="70"/><column index="12" value="70"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Crashes_by_vehicletype_2020" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="98"/><column index="3" value="149"/><column index="4" value="107"/><column index="5" value="158"/><column index="6" value="91"/><column index="7" value="142"/><column index="8" value="40"/><column index="9" value="91"/><column index="10" value="188"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Crashes_by_vehicletype_2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="98"/><column index="3" value="149"/><column index="4" value="107"/><column index="5" value="158"/><column index="6" value="91"/><column index="7" value="142"/><column index="8" value="40"/><column index="9" value="91"/><column index="10" value="188"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MaleandFemalePop" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="118"/><column index="2" value="86"/><column index="4" value="86"/><column index="6" value="86"/><column index="8" value="86"/><column index="10" value="86"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="population_by_state" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="83"/><column index="3" value="76"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="vehicletype_deaths_byGender" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="40"/><column index="2" value="167"/><column index="3" value="49"/><column index="4" value="196"/><column index="5" value="49"/><column index="6" value="125"/><column index="7" value="49"/><column index="8" value="154"/><column index="9" value="49"/><column index="10" value="85"/><column index="11" value="51"/><column index="12" value="67"/><column index="13" value="51"/><column index="14" value="95"/><column index="15" value="51"/><column index="16" value="177"/><column index="17" value="51"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="USA_trafficfatalities_bystate_pop.sql">-- displaying Traffic deaths table information
+select * from Traffic_deaths
+
+-- Adding new column name Total_crashes and calculating 
+alter table Traffic_deaths
+add column Total_crashes
+
+select Total_crashes
+from Traffic_deaths
+
+alter table Traffic_deaths
+drop column Total_crashes
+
+select *
+from Traffic_deaths
+
+alter table Traffic_deaths
+add column Total_traffic_fatalities as (MotorVehicleDeaths_stateofresidence + Trafficdeaths_stateofincident) 
+
+ALTER table Traffic_deaths
+drop column Total_traffic_fatalities
+
+-- removing the commas from number
+UPDATE Traffic_deaths
+SET MotorVehicleDeaths_stateofresidence =replace(MotorVehicleDeaths_stateofresidence, ',','') 
+
+UPDATE Traffic_deaths
+set Trafficdeaths_stateofincident = replace(trafficdeaths_stateofincident,',','')
+
+-- sum two columns into new column
+ALTER TABLE Traffic_deaths ADD Total_Fatalities as (motorvehicledeaths_stateofresidence + trafficdeaths_stateofincident)
+ 
+
+-- deleting the Trafficdeathsper10000motorvehicles COLUMN
+alter table Traffic_deaths
+drop column Trafficdeathsper10000motorvehicles
+--checking for the column Trafficdeathsper10000motorvehicles
+select *
+from Traffic_deaths
+
+--deleting the MotorVehicleDeathsper100000population COLUMN
+alter table Traffic_deaths
+drop column MotorVehicleDeathsper100000population
+-- checking the COLUMN MotorVehicleDeathsper100000population
+select *
+from Traffic_deaths
+
+-- deleting the COLUMN Trafficdeaths_per100000000vehiclemiles
+alter table Traffic_deaths
+drop column Trafficdeaths_per100000000vehiclemiles
+-- checking for the column Trafficdeaths_per100000000vehiclemiles
+select * 
+from Traffic_deaths
+
+-- cleaning the data in Vehicle_registration table
+-- Rename the table from Electric(EV) to Electric
+alter table Vehicle_registration
+rename &quot;Electric(EV)&quot; to Electric
+
+select Electric
+from Vehicle_registration
+
+-- rename the column name from plug-inhybridelectric(PHEV) to Plug-InHybridElectric
+ALTER TABLE Vehicle_registration
+rename &quot;Plug-InHybridElectric(PHEV)&quot; to PlugInHybridElectric
+
+select PlugInHybridElectric
+from Vehicle_registration
+
+-- rename the column name from HybridElectric(HEV) to HybridElectric
+alter table Vehicle_registration
+rename &quot;HybridElectric(HEV)&quot; to HybridElectric
+
+SELECT HybridElectric
+from Vehicle_registration
+
+-- drop the column name Biodiesel
+alter table Vehicle_registration
+drop column Biodiesel
+
+select * from Vehicle_registration
+
+-- rename column from Ethanol/Flex to EthonolORFlex
+alter table Vehicle_registration
+RENAME &quot;Ethanol/Flex(E85)&quot; to EthanolOrFlex
+
+select EthanolOrFlex
+from Vehicle_registration
+
+-- rename the column name CompressedNaturalGas(CNG) to CompressedNaturalGas
+alter table Vehicle_registration
+rename &quot;CompressedNaturalGas(CNG)&quot; to CompressedNaturalGas
+
+select CompressedNaturalGas
+from Vehicle_registration
+
+-- drop columns propane, hydrozen and Methanol
+alter table Vehicle_registration
+drop column Propane
+
+alter table Vehicle_registration
+drop column Hydrogen
+
+alter table Vehicle_registration
+drop column Methanol
+
+select * from 
+Vehicle_registration
+
+-- Removing commas from number
+UPDATE Vehicle_registration
+SET Electric =replace(Electric, ',','') 
+
+UPDATE Vehicle_registration
+SET PlugInHybridElectric =replace(PlugInHybridElectric, ',','') 
+
+UPDATE Vehicle_registration
+SET HybridElectric =replace(HybridElectric, ',','') 
+
+UPDATE Vehicle_registration
+SET EthanolOrFlex =replace(EthanolOrFlex, ',','') 
+
+UPDATE Vehicle_registration
+SET CompressedNaturalGas =replace(CompressedNaturalGas, ',','') 
+
+UPDATE Vehicle_registration
+SET Gasoline =replace(Gasoline, ',','') 
+
+UPDATE Vehicle_registration
+SET Diesel =replace(Diesel, ',','') 
+
+select *
+from Vehicle_registration
+
+-- aum all vehicl registartions
+ALTER TABLE Vehicle_registration ADD Total_vehicleregistrations as (Electric + PlugInHybridElectric + HybridElectric + EthanolOrFlex + CompressedNaturalGas + Gasoline + Diesel)
+
+select *
+from Vehicle_registration
+
+select Traffic_deaths.Year,
+Traffic_deaths.state,
+Traffic_deaths.state_code,
+Traffic_deaths.MotorVehicleDeaths_stateofresidence,
+Traffic_deaths.Trafficdeaths_stateofincident,
+Traffic_deaths.Total_Fatalities,
+Vehicle_registration.Electric,
+Vehicle_registration.PlugInHybridElectric,
+Vehicle_registration.HybridElectric,
+Vehicle_registration.EthanolOrFlex,
+Vehicle_registration.CompressedNaturalGas,
+Vehicle_registration.Gasoline,
+Vehicle_registration.Diesel,
+Vehicle_registration.Total_vehicleregistrations,
+population_by_state.Population
+from 
+Traffic_deaths
+left JOIN Vehicle_registration
+on Traffic_deaths.state_code = Vehicle_registration.state_code
+and Traffic_deaths.Year = Vehicle_registration.Year,
+population_by_state
+on Traffic_deaths.state_code = population_by_state.state_code
+and Traffic_deaths.Year = population_by_state.Year
+</sql><sql name="USA_trafficfatalities_bystate_pop.sql">
+-- @@@@@@@@@@ cleaning and manipulating data on Traffic_deaths@@@@@@@@@@@@
+-- displaying Traffic deaths table information
+select * from Traffic_deaths
+
+-- Adding new column name Total_crashes and calculating 
+alter table Traffic_deaths
+add column Total_crashes
+
+select Total_crashes
+from Traffic_deaths
+
+alter table Traffic_deaths
+drop column Total_crashes
+
+select *
+from Traffic_deaths
+
+alter table Traffic_deaths
+add column Total_traffic_fatalities as (MotorVehicleDeaths_stateofresidence + Trafficdeaths_stateofincident) 
+
+ALTER table Traffic_deaths
+drop column Total_traffic_fatalities
+
+-- removing the commas from number
+UPDATE Traffic_deaths
+SET MotorVehicleDeaths_stateofresidence =replace(MotorVehicleDeaths_stateofresidence, ',','') 
+
+UPDATE Traffic_deaths
+set Trafficdeaths_stateofincident = replace(trafficdeaths_stateofincident,',','')
+
+-- sum two columns into new column
+ALTER TABLE Traffic_deaths ADD Total_Fatalities as (motorvehicledeaths_stateofresidence + trafficdeaths_stateofincident)
+ 
+
+-- deleting the Trafficdeathsper10000motorvehicles COLUMN
+alter table Traffic_deaths
+drop column Trafficdeathsper10000motorvehicles
+--checking for the column Trafficdeathsper10000motorvehicles
+select *
+from Traffic_deaths
+
+--deleting the MotorVehicleDeathsper100000population COLUMN
+alter table Traffic_deaths
+drop column MotorVehicleDeathsper100000population
+-- checking the COLUMN MotorVehicleDeathsper100000population
+select *
+from Traffic_deaths
+
+-- deleting the COLUMN Trafficdeaths_per100000000vehiclemiles
+alter table Traffic_deaths
+drop column Trafficdeaths_per100000000vehiclemiles
+-- checking for the column Trafficdeaths_per100000000vehiclemiles
+select * 
+from Traffic_deaths
+
+
+-- @@@@@@@@@2cleaning and manipulating the data for table vehicletype_deaths_byGender@@@@@@@@@@@@@
+
+delete from vehicletype_deaths_byGender
+where Year is NULL 
+
+alter table vehicletype_deaths_byGender
+drop column Largetruckdrivers
+
+alter TABLE vehicletype_deaths_byGender
+drop column field7
+
+alter table vehicletype_deaths_byGender
+drop column Largetruckpassengers
+
+alter table vehicletype_deaths_byGender
+drop column field9
+
+alter table vehicletype_deaths_byGender
+drop column Pedestrians
+
+alter table vehicletype_deaths_byGender
+drop column field11
+
+alter table vehicletype_deaths_byGender
+drop column Bicyclists
+
+alter table vehicletype_deaths_byGender
+drop column field13
+
+alter table vehicletype_deaths_byGender
+drop column field15
+
+alter table vehicletype_deaths_byGender
+drop column Motorcyclists
+
+alter table vehicletype_deaths_byGender
+drop column &quot;Totalmotorvehicledeaths*&quot;
+
+alter table vehicletype_deaths_byGender
+drop column field17
+
+select *
+from vehicletype_deaths_byGender
+
+alter table vehicletype_deaths_byGender
+rename Passengervehicledrivers to MalePassengerVehicleD
+
+alter table vehicletype_deaths_byGender
+rename field3 to FemalePassengerVehicleD
+
+alter table vehicletype_deaths_byGender
+rename Passengervehiclepassengers to MalePassengerVehicleP
+
+alter table vehicletype_deaths_byGender
+rename field5 to FemalePassengerVehicleP
+
+select * from vehicletype_deaths_byGender
+
+-- Removing commas from the number
+UPDATE vehicletype_deaths_byGender
+set MalePassengerVehicleD = replace(MalePassengerVehicleD,',','')
+
+UPDATE vehicletype_deaths_byGender
+set FemalePassengerVehicleD = replace(FemalePassengerVehicleD,',','')
+
+UPDATE vehicletype_deaths_byGender
+set MalePassengerVehicleP = replace(MalePassengerVehicleP,',','')
+
+UPDATE vehicletype_deaths_byGender
+set FemalePassengerVehicleP = replace(FemalePassengerVehicleP,',','')
+
+
+select *
+from vehicletype_deaths_byGender
+
+-- sum two columns into new column
+ALTER TABLE vehicletype_deaths_byGender ADD Total_MaleFatalitiesByVehicletype as (MalePassengerVehicleD + MalePassengerVehicleP)
+ALTER TABLE vehicletype_deaths_byGender ADD Total_FemaleFatalitiesByVehicletype as (FemalePassengerVehicleD + FemalePassengerVehicleP)
+
+select * 
+from vehicletype_deaths_byGender
+
+alter table vehicletype_deaths_byGender
+add column TotalVehicletypeFatalities
+
+-- insert into vehicletype_deaths_byGender
+-- (TotalVehicletypeFatalities) values(23714),(23551),(22697),(22215),(23824),(26325)
+
+delete from vehicletype_deaths_byGender
+where Year is NULL
+
+update vehicletype_deaths_byGender
+set TotalVehicletypeFatalities = 23714 where Year = 2016
+
+update vehicletype_deaths_byGender
+set TotalVehicletypeFatalities = 23551 where Year = 2017
+
+update vehicletype_deaths_byGender
+set TotalVehicletypeFatalities = 22697 where Year = 2018
+
+update vehicletype_deaths_byGender
+set TotalVehicletypeFatalities = 22215 where Year = 2019
+
+update vehicletype_deaths_byGender
+set TotalVehicletypeFatalities = 23824 where Year = 2020
+
+update vehicletype_deaths_byGender
+set TotalVehicletypeFatalities = 26325 where Year = 2021
+
+
+alter table vehicletype_deaths_byGender
+add column MaleFatalitiesPercent
+
+alter table vehicletype_deaths_byGender
+add column FemaleFatalitiesPercent
+
+alter table vehicletype_deaths_byGender
+drop column MaleFatalitiesPercent
+
+
+alter table vehicletype_deaths_byGender
+drop column FemaleFatalitiesPercent
+
+
+
+
+</sql><current_tab id="1"/></tab_sql></sqlb_project>

@@ -1,0 +1,7 @@
+,Year,PassengerCar,PassengerCarPercent,LightTruckSUVs,LightTruckSUVsPercent,LTPickupTrucks,LTPickupTrucksPercentage,LTVans,LTVansPercentage,LightTruckToatalFat,LightTruckTotalFatPercent,TotalVehicletypeFatalities,TotalFatalities,TotalVehicleTypePercentage
+0,2016,"13,412",57%,"4,432",19%,"4,538",19%,"1,223",5%,"10,302",43%,23714,40328,58.8
+1,2017,"13,363",57%,"4,598",20%,"4,356",18%,"1,168",5%,"10,188",43%,23551,77704,30.31
+2,2018,"12,775",56%,"4,534",20%,"4,253",19%,"1,077",5%,"9,922",44%,22697,76239,29.77
+3,2019,"12,239",55%,"4,709",21%,"4,194",19%,"1,017",5%,"9,976",45%,22215,75462,29.44
+4,2020,"13,472",57%,"5,075",21%,"4,330",18%,933,4%,"10,352",43%,23824,81346,29.29
+5,2021,"13,529",51%,"6,961",26%,"4,757",18%,"1,078",4%,"12,796",49%,26325,89919,29.28
